@@ -22,8 +22,10 @@ Ad esempio link a libri di testo sotto licenza Creative Commons oppure materiale
 
 ## Cosa *non* trovo su questo sito?
 Qualsiasi cosa che sia illegale (per dirne una, scansioni di libri protetti da copyright) oppure materiale il cui accesso è limitato (ad esempio slide per soli corsisti).
+E ovviamente niente materiale a pagamento, visto l'obiettivo del progetto.
 
 ## Come posso contribuire?
 Il progetto è ospitato su GitHub come [materiale-ingegneria-free](https://github.com/f-dinucci/materiale-ingegneria-free), puoi aprire una [issue](https://github.com/f-dinucci/materiale-ingegneria-free/issues) (una sorta di segnalazione/discussione) oppure proporre le tue modifiche tramite [pull request](https://github.com/f-dinucci/materiale-ingegneria-free/pulls).
 
-
+## Regole per l'aggiunta di materiale
+Materiale sotto licenza libera può essere aggiunto immediatamente agli elenchi, in tutti gli altri casi è auspicabile ottenere _prima_ il benestare dell'autore.
