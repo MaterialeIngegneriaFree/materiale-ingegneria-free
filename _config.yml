@@ -25,9 +25,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://f-dinucci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: minima
-plugins:
-  - jekyll-sitemap
+theme: tactile
+#plugins:
+#  - jekyll-sitemap
   
 # Theme Settings
 header_pages:
