@@ -10,6 +10,7 @@ Qui si trovano i link alle pagine dei Corsi di Laurea, che elencano gli insegnam
 
 Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono qui elencati:
 * [Fisica 1](../Insegnamenti/Fisica_1)
+* [Geometria e Algebra Lineare (GAL)](./GeometriaAlgebraLineare)
 
 ## Corsi di Laurea per classi (nuovo ordinamento) 
 
