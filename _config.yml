@@ -20,14 +20,16 @@
 
 title: Materiale Ingegneria Free
 description: >- # this means to ignore newlines until "baseurl:"
-  Materiale didattico per i CdL di Ingegneria, sotto licenza libera o quantomeno gratuito
+  Materiale didattico per i CdL di Ingegneria e Informatica, sotto licenza libera o quantomeno gratuito
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://f-dinucci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: jekyll/minima 
+theme: jekyll-theme-minimal
+
 #plugins:
-#  - jekyll-sitemap
+ - jekyll-feed
+ - jekyll-sitemap
   
 # Theme Settings
 header_pages:
@@ -56,4 +58,4 @@ header_pages:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-minimal
+
