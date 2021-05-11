@@ -21,8 +21,8 @@
 title: Materiale Ingegneria Free
 description: >- # this means to ignore newlines until "baseurl:"
   Materiale didattico per i CdL di Ingegneria, sotto licenza libera o quantomeno gratuito
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://materiale-ingegneria-free.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/materiale-ingegneria-free" # the subpath of your site, e.g. /blog
+url: "https://f-dinucci.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
