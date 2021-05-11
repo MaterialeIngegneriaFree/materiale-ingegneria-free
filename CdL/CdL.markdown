@@ -19,3 +19,5 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 ### Ingegneria dell'Informazione
 
 ### Ingegneria Industriale
+
+### Scienze e tecnologie informatiche
