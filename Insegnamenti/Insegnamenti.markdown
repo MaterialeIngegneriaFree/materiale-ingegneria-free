@@ -12,4 +12,5 @@ Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sol
 * [Fisica Tecnica - Termodinamica - Trasmissione del Calore](./FisicaTecnica)
 * [Fluidodinamica - Meccanica dei Fluidi - Termofluidodinamica](./Fluidodinamica)
 * [Geometria e Algebra Lineare (GAL)](./GeometriaAlgebraLineare)
+* [_Illuminotecnica_](./Illuminotecnica)
 * [Impianti di Condizionamento - Impianti Termotecnici](./ImpiantiCondizionamento)
