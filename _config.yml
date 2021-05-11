@@ -27,7 +27,7 @@ url: "https://f-dinucci.github.io" # the base hostname & protocol for your site,
 # Build settings
 theme: jekyll-theme-minimal
 
-#plugins:
+plugins:
  - jekyll-feed
  - jekyll-sitemap
   
