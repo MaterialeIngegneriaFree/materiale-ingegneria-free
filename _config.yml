@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://f-dinucci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
+remote_theme: jekyll/minima
 theme: jekyll-theme-minimal
 
 plugins:
