@@ -20,9 +20,10 @@ Al momento è poco più di una ["proof of concept"](https://it.wikipedia.org/wik
 ## Come navigo sul sito?
 Su desktop tramite la barra in alto, su mobile tramite l'icona del menu in alto a destra.
 Attualmente il sito è così diviso:
-* [__Corsi di Laurea__](./CdL/CdL): elenco dei Corsi di Laurea per classi, con gli insegnamenti che ne possono far parte (lavori in corso)
-* [__Insegnamenti__](./Insegnamenti/Insegnamenti): elenco degli Insegnamenti (alias corsi) in ordine alfabetico
-* [__Varie__](./Varie/Varie): tutto quello che può essere utile ma non rientra in un insegnamento specifico (ad esempio LaTeX)
+* [__Corsi di Laurea__](./CdL/CdL): elenco dei Corsi di Laurea per classi, con gli Insegnamenti che ne possono far parte (lavori in corso)
+* [__Insegnamenti__](./Insegnamenti/Insegnamenti): elenco degli Insegnamenti (alias corsi, materie ecc.) in ordine alfabetico
+* [__Macroaree__](./Macroaree/Macroaree): tutto quello che può essere d'interesse e che non rientra in uno specifico insegnamento, raggruppato per macroaree tematiche. Ad esempio metodo di studio, LaTeX, sicurezza sul lavoro...
+* [__Software__](./Software/Software): strumenti informatici utili
 
 ## Cosa trovo su questo sito?
 Ad esempio link a libri di testo sotto licenza Creative Commons oppure materiale dei corsi sotto copyright ma reso disponibile al pubblico.

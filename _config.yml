@@ -37,7 +37,8 @@ header_pages:
   - index.markdown
   - CdL/CdL.markdown
   - Insegnamenti/Insegnamenti.markdown
-  - Varie/Varie.markdown
+  - Macroaree/Macroaree.markdown
+  - Software/Software.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

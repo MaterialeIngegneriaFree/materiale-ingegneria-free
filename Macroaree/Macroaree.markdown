@@ -1,8 +1,9 @@
 ---
-title: Varie
+title: Macroaree
 layout: page
-permalink: /Varie/Varie
+permalink: /Macroaree/Macroaree
 --- 
+Tutto quello che può essere d'interesse per informatici e ingegneri e che non rientra in uno specifico insegnamento, raggruppato per macroaree tematiche.
 
 ## LaTeX
 * [_L’arte di scrivere con LaTeX_](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf); Lorenzo Pantieri; _consentiti consultazione e riproduzione ad utilizzo personale, tutti gli altri diritti riservati, © Lorenzo Pantieri_,  (verificato contattando l'autore)
