@@ -1,7 +1,7 @@
 ---
-title: Fisica 1
+title: Fisica Generale - Fisica 1 - Fisica 2
 layout: page
-permalink: /Insegnamenti/Fisica_1
+permalink: /Insegnamenti/FisicaGenerale
 --- 
 
 ## Testi
