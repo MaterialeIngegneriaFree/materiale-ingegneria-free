@@ -17,6 +17,13 @@ Come progetto nasce da una rapida chiacchierata tra un paio di studenti sul grup
 
 Al momento è poco più di una ["proof of concept"](https://it.wikipedia.org/wiki/Proof_of_concept), si spera di poterlo accrescere con l'aiuto di numerosi altri studenti.
 
+## Come navigo sul sito?
+Su desktop tramite la barra in alto, su mobile tramite l'icona del menu in alto a destra.
+Attualmente il sito è così diviso:
+* [__Corsi di Laurea__](./CdL/CdL): elenco dei Corsi di Laurea per classi, con gli insegnamenti che ne possono far parte (lavori in corso)
+* [__Insegnamenti__](./Insegnamenti/Insegnamenti): elenco degli Insegnamenti (alias corsi) in ordine alfabetico
+* [__Varie__](./Varie/Varie): tutto quello che può essere utile ma non rientra in un insegnamento specifico (ad esempio LaTeX)
+
 ## Cosa trovo su questo sito?
 Ad esempio link a libri di testo sotto licenza Creative Commons oppure materiale dei corsi sotto copyright ma reso disponibile al pubblico.
 
@@ -28,9 +35,9 @@ E ovviamente niente materiale a pagamento, visto l'obiettivo del progetto.
 I laureati in informatica del nuovo ordinamento (oltre che quelli in ingegneria informatica) possono accedere all'albo degli ingegneri settore informazione. [(Fonte ALSI)](http://www.alsi.it/cm/content/iscrizione-allordine-degli-ingegneri-laureati-informatici).
 Se vuoi un motivo più pratico ci sono parecchi punti di contatto tra i corsi di Ingegneria Informatica e Informatica.
 
-## Come posso contribuire?
+## Come posso contribuire/Contatti?
 Il progetto è ospitato su GitHub come [materiale-ingegneria-free](https://github.com/f-dinucci/materiale-ingegneria-free), puoi aprire una [issue](https://github.com/f-dinucci/materiale-ingegneria-free/issues) (una sorta di segnalazione/discussione) oppure proporre le tue modifiche tramite [pull request](https://github.com/f-dinucci/materiale-ingegneria-free/pulls).
-Altrimenti siamo contattabili all'indirizzo materiale.ingegneria.free@protonmail.ch 
+Altrimenti siamo contattabili all'indirizzo __materiale.ingegneria.free@protonmail.ch__ 
 
 ## Regole per l'aggiunta di materiale
-Materiale sotto licenza libera può essere aggiunto immediatamente agli elenchi, in tutti gli altri casi è auspicabile ottenere _prima_ il benestare dell'autore.
+Materiale sotto licenza libera può essere aggiunto immediatamente agli elenchi, in tutti gli altri casi è auspicabile ottenere _prima_ il benestare dell'autore o verificare se siano esplicitate le condizioni di utilizzo.
