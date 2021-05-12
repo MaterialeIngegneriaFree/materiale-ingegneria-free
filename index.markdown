@@ -42,3 +42,6 @@ Altrimenti siamo contattabili all'indirizzo __materiale.ingegneria.free@protonma
 
 ## Regole per l'aggiunta di materiale
 Materiale sotto licenza libera può essere aggiunto immediatamente agli elenchi, in tutti gli altri casi è auspicabile ottenere _prima_ il benestare dell'autore o verificare se siano esplicitate le condizioni di utilizzo.
+
+## Ringraziamenti
+Il primo ringraziamento va ovviamente agli autori del materiale linkato da questo sito. Poi vorremmo ringraziare coloro che hanno dato suggerimenti e contributi al progetto: anzitutto coloro che hanno deciso di rimanere anonimi, poi Alessandro Zoi, Daniele La Prova
