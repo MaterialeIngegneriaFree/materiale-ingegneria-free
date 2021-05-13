@@ -1,7 +1,7 @@
 ---
 title: Climatologia - Climatologia dell'ambiente costruito
 layout: page
-permalink: Climatologia
+permalink: /Insegnamenti/Climatologia
 --- 
 
 ## Testi
