@@ -7,7 +7,7 @@ Tutto quello che può essere d'interesse per informatici e ingegneri e che non r
 
 ## Conoscenza Open
 * [_Fare Open Access. La libera diffusione del sapere scientifico nell’era digitale_](https://www.ledizioni.it/prodotto/aliprandi-fare-open-access/); Simone Aliprandi; Ledizioni; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). caricabile tramite registrazione sul sito dell'editore ed "acquisto fittizio" del'eBook a 0€, oppure [scaricabile direttamente in PDF](https://www.ledizioni.it/stag/wp-content/uploads/2017/05/Open_access_web.pdf).
-* [_Open source, software libero e altre libertà. Un’introduzione alle libertà digitali_]; Carlo Piana; Ledizioni; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scaricabile tramite registrazione sul sito dell'editore ed "acquisto fittizio" del'eBook a 0€, oppure [scaricabile direttamente in PDF](https://www.ledizioni.it/stag/wp-content/uploads/2018/07/Piana_WEB.pdf).
+* [_Open source, software libero e altre libertà. Un’introduzione alle libertà digitali_](https://www.ledizioni.it/prodotto/c-piana-open-source-software-libero-altre-liberta/); Carlo Piana; Ledizioni; [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scaricabile tramite registrazione sul sito dell'editore ed "acquisto fittizio" del'eBook a 0€, oppure [scaricabile direttamente in PDF](https://www.ledizioni.it/stag/wp-content/uploads/2018/07/Piana_WEB.pdf).
 
 ## LaTeX
 * [_L’arte di scrivere con LaTeX_](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf); Lorenzo Pantieri; _consentiti consultazione e riproduzione ad utilizzo personale, tutti gli altri diritti riservati, © Lorenzo Pantieri_,  (verificato contattando l'autore)
