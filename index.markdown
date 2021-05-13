@@ -25,6 +25,11 @@ Attualmente il sito è così diviso:
 * [__Macroaree__](./Macroaree/Macroaree): tutto quello che può essere d'interesse e che non rientra in uno specifico insegnamento, raggruppato per macroaree tematiche. Ad esempio metodo di studio, LaTeX, sicurezza sul lavoro...
 * [__Software__](./Software/Software): strumenti informatici utili
 
+## Disclaimer
+Questo sito è realizzato "senza nessuna garanzia": ad esempio non è garantito che il materiale linkato sia accurato o esente da errori.
+Cerchiamo inoltre di evitare di inserire link a materiale coperto da diritti d'autore, ma nel caso ci capitasse una svista vogliate segnalarlo tramite una [issue](https://github.com/f-dinucci/materiale-ingegneria-free/issues) e/o contattandoci all'indirizzo __materiale.ingegneria.free@protonmail.ch__, ed i link in questione saranno rimossi al più presto possibile.
+Inoltre tutti gli eventuali marchi citati sono di proprietà dei rispettivi detentori diritti d'autore.
+
 ## Cosa trovo su questo sito?
 Ad esempio link a libri di testo sotto licenza Creative Commons oppure materiale dei corsi sotto copyright ma reso disponibile al pubblico.
 
