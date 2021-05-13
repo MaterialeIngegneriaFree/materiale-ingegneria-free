@@ -11,32 +11,63 @@ _Il “Software libero” è software che rispetta la libertà degli utenti e la
 
 ## Desktop
 
+### [CherryTree](https://www.giuspen.com/cherrytree/)
+[CherryTree](https://www.giuspen.com/cherrytree/) è un software per prendere note organizzate gerarchicamente con supporto a rich text ed evidenziazione della sintassi.
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3 or later](https://github.com/giuspen/cherrytree/blob/master/license.txt)
+
+### [Draw.io Desktop](https://github.com/jgraph/drawio-desktop)
+[Draw.io Desktop](https://github.com/jgraph/drawio-desktop) è la versione desktop di [diagrams.net](https://www.diagrams.net/), precedentemente noto come draw.io. È uno strumento estremamente facile e versatile per la creazione di diagrammi e UML, con una retrocompatibilità molto spinta.
+___SO:___ ChromeOS, Linux, macOS, Windows     ___Licenza:___ [Apache License 2.0](https://github.com/jgraph/drawio-desktop/blob/dev/LICENSE)
+
+### [FreePlane](https://www.freeplane.org/wiki/index.php/Home)
+[FreePlane](https://www.freeplane.org/wiki/index.php/Home) serve a creare mappe mentali con supporto a LaTeX ed evidenziazione del codice.
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+
 ### [NoteKit](https://github.com/blackhole89/notekit)
 [NoteKit](https://github.com/blackhole89/notekit) permette di prendere note in Markdown o a mano ed organizzarle geriarchicamente. 
-___SO:___ Linux     ___Licenza:___ [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
+___SO:___ Linux     ___Licenza:___ [GNU GPL v3](https://github.com/blackhole89/notekit/blob/master/LICENSE)
 
-## [Okular](https://okular.kde.org/it/)
+### [Okular](https://okular.kde.org/it/)
 [Okular](https://okular.kde.org/it/) è un visualizzatore universale di documenti: supporta ad esempio CBR, CBZ, DjVU, EPub, MD, PDF. [Qui la lista dei tipi di file supportati.](https://okular.kde.org/it/formats/)
-___SO:___ Linux, Windows     ___Licenza:___ [GNU LGPLv2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html#SEC1)
+___SO:___ Linux, Windows     ___Licenza:___ [GNU LGPLv2.1](https://api.kde.org/okular/html/licenses.html)
+
+### [OpenBoard](https://openboard.ch/index.it.html)
+[OpenBoard](https://openboard.ch/index.it.html) è un software per lavagna interattiva, pensato per l'utilizzo nelle scuole ma utile anche a livello universitario.
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.com/OpenBoard-org/OpenBoard/blob/master/LICENSE)
 
 ### [Open Broadcaster Software (OBS)](https://obsproject.com/)
 [Open Broadcaster Software (OBS)](https://obsproject.com/) è uno strumento completo per la cattura dello schermo, registrazione di video e live streaming.
-___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING)
+
+### [Processing](https://processing.org/)
+[Processing](https://processing.org/) consente di creare grafiche interattive e simulare fenomeni fisici.
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [Misto di GNU GPLv2 e GNU LGPLv2](https://github.com/processing/processing/blob/master/license.txt)
+
+### [SageMath](https://www.sagemath.org/)
+[SageMath](https://www.sagemath.org/) è un software per la matematica che raggruppa le funzionalità di numerosi altri software dedicati alla matematica. Permette di fare operazioni come la risoluzione di integrali o limiti, rappresentazione di grafici od algebra lineare, tramite CLI o browser (può essere installato in locale o su di un server).
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.com/sagemath/sage/blob/develop/COPYING.txt)
 
 ### [Simple Screen Recording](https://www.maartenbaert.be/simplescreenrecorder/)
 [Simple Screen Recording](https://www.maartenbaert.be/simplescreenrecorder/) è uno strumento semplice da utilizzare per la registrazione/cattura dello schermo.
-___SO:___ Linux     ___Licenza:___ [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
+___SO:___ Linux     ___Licenza:___ [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ### [Xournal++](https://xournalpp.github.io/)
 [Xournal++](https://xournalpp.github.io/) è un programma per prendere appunti, sia tramite tavoletta grafica che tramite tastiera. È ispirato a [Xournal](http://xournal.sourceforge.net/), supporta l'inserimento di LaTeX e la modifica di PDF esistenti.
-___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2](https://github.com/xournalpp/xournalpp/blob/master/LICENSE)
 
 ## Mobile
 _Nothing here yet..._
 
-# Software _non_ Libero (free, free for students, freemium etc.)
+# Software _non_ Libero 
+Qui sono inclusi tutti i software che _non_ siano liberi, ma che siano comunque utili per gli studenti.
+Data la natura del progetto, vengono elencati solo software appartenenti a queste categorie:
+* Free: gratuiti, senza particolari limitazioni
+* Free for students: normalmente a pagamento, ma con la possibilità di ottenere una licenza gratuita se studenti universitari
+* Freemium: gratuiti ma con limitazioni rispetto ad una versione a pagamento (ad esempio funzionalità ridotte)
+Dato lo scopo del progetto _non_ sono inclusi software che offrono "demo" a tempo (tutte le funzioni per un certo periodo di tempo oltre il quale va acquistata una licenza) oppure che offrono licenze studenti a prezzo calmierato ma non gratuite.
 
 ## Desktop
+_Nothing here yet..._
 
 ## Mobile
 _Nothing here yet..._
