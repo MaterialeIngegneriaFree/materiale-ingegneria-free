@@ -27,7 +27,7 @@ Attualmente il sito è così diviso:
 
 ## Disclaimer
 Questo sito è realizzato "senza nessuna garanzia": ad esempio non è garantito che il materiale linkato sia accurato o esente da errori.
-Cerchiamo inoltre di evitare di inserire link a materiale coperto da diritti d'autore, ma nel caso ci capitasse una svista vogliate segnalarlo tramite una [issue](https://github.com/f-dinucci/materiale-ingegneria-free/issues) e/o contattandoci all'indirizzo __materiale.ingegneria.free@protonmail.ch__, ed i link in questione saranno rimossi al più presto possibile.
+Cerchiamo inoltre di evitare di inserire link a materiale coperto da diritti d'autore, ma nel caso ci capitasse una svista vogliate segnalarlo tramite una [issue](https://github.com/MaterialeIngegneriaFree/materiale-ingegneria-free/issues) e/o contattandoci all'indirizzo __materiale.ingegneria.free@protonmail.ch__, ed i link in questione saranno rimossi al più presto possibile.
 Inoltre tutti gli eventuali marchi citati sono di proprietà dei rispettivi detentori diritti d'autore.
 
 ## Cosa trovo su questo sito?
@@ -42,7 +42,7 @@ I laureati in informatica del nuovo ordinamento (oltre che quelli in ingegneria 
 Se vuoi un motivo più pratico ci sono parecchi punti di contatto tra i corsi di Ingegneria Informatica e Informatica.
 
 ## Come posso contribuire/Contatti?
-Il progetto è ospitato su GitHub come [materiale-ingegneria-free](https://github.com/f-dinucci/materiale-ingegneria-free), puoi aprire una [issue](https://github.com/f-dinucci/materiale-ingegneria-free/issues) (una sorta di segnalazione/discussione) oppure proporre le tue modifiche tramite [pull request](https://github.com/f-dinucci/materiale-ingegneria-free/pulls).
+Il progetto è ospitato su GitHub come [materiale-ingegneria-free](https://github.com/MaterialeIngegneriaFree/materiale-ingegneria-free/), puoi aprire una [issue](https://github.com/MaterialeIngegneriaFree/materiale-ingegneria-free/issues) (una sorta di segnalazione/discussione) oppure proporre le tue modifiche tramite [pull request](https://github.com/MaterialeIngegneriaFree/materiale-ingegneria-free/pulls).
 Altrimenti siamo contattabili all'indirizzo __materiale.ingegneria.free@protonmail.ch__ 
 
 ## Regole per l'aggiunta di materiale
