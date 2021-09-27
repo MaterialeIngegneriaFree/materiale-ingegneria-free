@@ -5,6 +5,7 @@ permalink: /CdL/CdL
 --- 
 
 Qui si trovano i link alle pagine dei Corsi di Laurea, che elencano gli insegnamenti che ne possono far parte.
+Sono anche elencati progetti/repository di materiale relativo ad un intero CdL
 
 ## Insegnamenti Comuni
 
@@ -44,3 +45,10 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 
 #### Informatica
 * [_Sistemi Embedded_](../Insegnamenti/SistemiEmbedded)
+
+## Repository dedicate a CdL
+
+### Ingegneria dell'Informazione
+
+#### Ingegneria Informatica
+[_Ingegneria-Informatica---materiale_](https://github.com/Tetesk/Ingegneria-Informatica---materiale)
