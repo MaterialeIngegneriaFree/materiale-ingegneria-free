@@ -50,5 +50,10 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 
 ### Ingegneria dell'Informazione
 
+#### Ingegneria Elettronica
+* [_Triennale elettronica polimi (Politecnico di Milano)_](https://valerionew.github.io/triennale-elettronica-polimi/)
+
 #### Ingegneria Informatica
-[_Ingegneria-Informatica---materiale_](https://github.com/Tetesk/Ingegneria-Informatica---materiale)
+* [_appuntiTriennale (La Sapienza)_](https://github.com/machine1104/appuntiTriennale)
+* [_Ingegneria-Informatica---materiale_](https://github.com/Tetesk/Ingegneria-Informatica---materiale)
+* [_Materiale Ingegneria Informatica @ UniPi (Università di Pisa)_](https://github.com/Guray00/IngegneriaInformatica)
