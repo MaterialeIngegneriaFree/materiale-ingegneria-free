@@ -8,6 +8,7 @@ permalink: /Insegnamenti/Insegnamenti
 Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sola (ad esempio _Fisica Tecnica_ e _Termodinamica_).
 
 * [Acustica - Acustica Applicata](./Acustica)
+* [Analisi Matematica Generale - Analisi Matematica 1 e 2 - Matematica 1 e 2](./AnalisiMatematica)
 * [Climatologia - Climatologia dell'ambiente costruito](./Climatologia)
 * [Elettrotecnica](./Elettrotecnica)
 * [Fisica Generale - Fisica 1 - Fisica 2](./FisicaGenerale)

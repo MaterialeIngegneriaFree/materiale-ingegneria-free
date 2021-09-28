@@ -10,6 +10,7 @@ Sono anche elencati progetti/repository di materiale relativo ad un intero CdL
 ## Insegnamenti Comuni
 
 Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono qui elencati:
+* [_Analisi Matematica Generale - Analisi Matematica 1 e 2 - Matematica 1 e 2_](../Insegnamenti/AnalisiMatematica)
 * [_Fisica Generale - Fisica 1 - Fisica 2_](../Insegnamenti/FisicaGenerale)
 * [_Geometria e Algebra Lineare (GAL)_](../Insegnamenti/GeometriaAlgebraLineare)
 
