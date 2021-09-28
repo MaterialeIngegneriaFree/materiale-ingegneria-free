@@ -29,8 +29,8 @@ remote_theme: jekyll/minima
 theme: jekyll-theme-minimal
 
 plugins:
- - jekyll-feed
  - jekyll-sitemap
+ #  - jekyll-feed
   
 # Theme Settings
 header_pages:
