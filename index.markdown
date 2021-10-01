@@ -11,7 +11,7 @@ Il _Free_ nel nome ha un doppio significato: può sia essere "gratuito" che "lib
 * Gratuito: per essere riportato qui il materiale didattico deve essere perlomeno accessibile gratuitamente (e legalmente) al pubblico.
 * Libero: sarebbe preferibile che il materiale fosse rilasciato sotto una licenza libera.
 
-Come progetto nasce da una rapida chiacchierata tra un paio di studenti sul gruppo di Ingegneria del Suicidio ([Dino Greco](https://github.com/dinosir93), UniCT, e [Francesco Di Nucci](https://github.com/f-dinucci/), UniSa).
+Come progetto nasce da una rapida chiacchierata tra un paio di studenti sul gruppo di Ingegneria del Suicidio ([Dino Greco](https://github.com/dinosir93), UniCT, e [Francesco Di Nucci](https://github.com/f-dinucci/), UniSa). Si sono poi aggiunti [Emanuele D'Amico](https://github.com/PioApocalypse/), UniSa e [Luca Cristiano](https://github.com/Zekromaster), UniSa.
 
 *A scanso di equivoci, questo progetto non è in alcun modo collegato/sponsorizzato/etc dai ragazzi di Ingegneria del Suicidio.*
 
