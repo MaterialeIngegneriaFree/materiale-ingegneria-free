@@ -56,5 +56,12 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 
 #### Ingegneria Informatica
 * [_appuntiTriennale (La Sapienza)_](https://github.com/machine1104/appuntiTriennale)
+* [_appunti-unibo (Università di Bologna)_](https://github.com/desmovalvo/appunti-unibo)
 * [_Ingegneria-Informatica---materiale (La Sapienza)_](https://github.com/Tetesk/Ingegneria-Informatica---materiale)
 * [_Materiale Ingegneria Informatica @ UniPi (Università di Pisa)_](https://github.com/Guray00/IngegneriaInformatica)
+* [_unipd-appunti-ing-inf (Università di Padova)_](https://github.com/caerbannogwhite/unipd-appunti-ing-inf)
+
+### Ingegneria Industriale
+
+#### Ingegneria Meccanica
+* [_Triennalia (Università degli Studi di Salerno)_](https://github.com/PioApocalypse/Triennalia)
