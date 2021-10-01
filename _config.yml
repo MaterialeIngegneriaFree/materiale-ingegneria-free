@@ -30,6 +30,7 @@ theme: jekyll-theme-cayman
 
 plugins:
  - jekyll-sitemap
+ - jekyll-remote-theme
  #  - jekyll-feed
   
 # Theme Settings
