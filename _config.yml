@@ -26,7 +26,7 @@ url: "https://materialeingegneriafree.github.io" # the base hostname & protocol 
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 plugins:
  - jekyll-sitemap
