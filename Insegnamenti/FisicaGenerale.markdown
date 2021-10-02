@@ -4,6 +4,13 @@ layout: page
 permalink: /Insegnamenti/FisicaGenerale
 --- 
 
+## Prove d'esame e intercorso svolte
+| Titolo | Autore | Licenza | Mirror | Note |
+| :---: | :---: | :---: | :---: | :---: |
+| [_Compiti di Elettromagnetismo_](https://osiris.df.unipi.it/~astrumia/didattica/compitiFis2I.pdf) | [Alessandro Strumia](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5548) (Dipartimento di Fisica, Università di Pisa) | Su autorizzazione dell'autore | [1](https://web.archive.org/web/20211002145458/https://osiris.df.unipi.it/~astrumia/didattica/compitiFis2I.pdf) | CdL in Fisica |
+| [_Compiti di Fisica Generale I_](https://osiris.df.unipi.it/~astrumia/didattica/CompitiFisI.pdf) | [Alessandro Strumia](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5548) (Dipartimento di Fisica, Università di Pisa) | Su autorizzazione dell'autore | [1](https://web.archive.org/web/20211002144956/https://osiris.df.unipi.it/~astrumia/didattica/CompitiFisI.pdf) | CdL in Fisica |
+| [_Compitini di Fisica 1_](https://osiris.df.unipi.it/~astrumia/didattica/CompitiniFisI.pdf) | [Alessandro Strumia](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5548) (Dipartimento di Fisica, Università di Pisa) | Su autorizzazione dell'autore | [1](https://web.archive.org/web/20211002145253/https://osiris.df.unipi.it/~astrumia/didattica/CompitiniFisI.pdf) | CdL in Fisica |
+
 ## Testi
 
 | Titolo | Autore | Licenza | Mirror | Note |
