@@ -14,6 +14,7 @@ permalink: /Insegnamenti/FisicaGenerale
 | [_Fisica 1: Prove Scritte_](https://osiris.df.unipi.it/~cella/provescritte/provescritte.pdf) | Dario Buttazzo, [Giancarlo Cella](http://osiris.df.unipi.it/~cella/), [Mauro Dell’Orso](https://www.unipi.it/index.php/news/item/11755-ateneo-in-lutto-per-la-scomparsa-del-professor-mauro-dell-orso), [Francesco Fidecaro](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=6066) (Dipartimento di Fisica, Università di Pisa) | [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [1](https://web.archive.org/web/20211002151444/https://osiris.df.unipi.it/~cella/provescritte/provescritte.pdf) | CdL in Fisica |
 
 ## Slide
+
 | Titolo | Autore | Licenza | Mirror | Note |
 | :---: | :---: | :---: | :---: | :---: |
 | [Elettro-Magnetismo](https://osiris.df.unipi.it/~astrumia/didattica/SlidesFisica2.pdf) | [Alessandro Strumia](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5548) (Dipartimento di Fisica, Università di Pisa) | Su autorizzazione dell'autore |  [1](https://web.archive.org/web/20211002160022/https://osiris.df.unipi.it/~astrumia/didattica/SlidesFisica2.pdf) | CdL in Fisica |
