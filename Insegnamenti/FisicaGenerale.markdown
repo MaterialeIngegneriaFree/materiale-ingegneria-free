@@ -5,6 +5,7 @@ permalink: /Insegnamenti/FisicaGenerale
 --- 
 
 ## Prove d'esame e intercorso svolte
+
 | Titolo | Autore | Licenza | Mirror | Note |
 | :---: | :---: | :---: | :---: | :---: |
 | [_Compiti di Elettromagnetismo_](https://osiris.df.unipi.it/~astrumia/didattica/compitiFis2I.pdf) | [Alessandro Strumia](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5548) (Dipartimento di Fisica, Università di Pisa) | Su autorizzazione dell'autore | [1](https://web.archive.org/web/20211002145458/https://osiris.df.unipi.it/~astrumia/didattica/compitiFis2I.pdf) | CdL in Fisica |
