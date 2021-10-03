@@ -31,10 +31,16 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 ### Ingegneria dell'Informazione
 
 #### Ingegneria Informatica
+* [_Basi di Dati_](../Insegnamenti/BasiDati)
 * [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
 * [_Sistemi Embedded_](../Insegnamenti/SistemiEmbedded)
 
 ### Ingegneria Industriale
+
+#### Ingegneria Gestionale
+* [_Basi di Dati_](../Insegnamenti/BasiDati)
+* [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
+* [_Fisica Tecnica - Termodinamica - Trasmissione del Calore_](../Insegnamenti/FisicaTecnica)
 
 #### Ingegneria Meccanica
 * [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
@@ -45,6 +51,7 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 ### Scienze e tecnologie informatiche
 
 #### Informatica
+* [_Basi di Dati_](../Insegnamenti/BasiDati)
 * [_Sistemi Embedded_](../Insegnamenti/SistemiEmbedded)
 
 ## Repository dedicate a CdL

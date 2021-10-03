@@ -9,6 +9,7 @@ Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sol
 
 * [Acustica - Acustica Applicata](./Acustica)
 * [Analisi Matematica Generale - Analisi Matematica 1 e 2 - Matematica 1 e 2](./AnalisiMatematica)
+* [Basi di Dati](./BasiDati)
 * [Climatologia - Climatologia dell'ambiente costruito](./Climatologia)
 * [Elettrotecnica](./Elettrotecnica)
 * [Fisica Generale - Fisica 1 - Fisica 2](./FisicaGenerale)
