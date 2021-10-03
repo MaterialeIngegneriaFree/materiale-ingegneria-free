@@ -14,6 +14,8 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 * [_Fisica Generale - Fisica 1 - Fisica 2_](../Insegnamenti/FisicaGenerale)
 * [_Geometria e Algebra Lineare (GAL)_](../Insegnamenti/GeometriaAlgebraLineare)
 
+---
+
 ## Corsi di Laurea per classi (nuovo ordinamento) 
 
 ### Ingegneria Civile e Ambientale
@@ -40,12 +42,14 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 #### Ingegneria Gestionale
 * [_Basi di Dati_](../Insegnamenti/BasiDati)
 * [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
+* [_Fondamenti di Informatica_](../Insegnamenti/FondamentiInformatica)
 * [_Fisica Tecnica - Termodinamica - Trasmissione del Calore_](../Insegnamenti/FisicaTecnica)
 
 #### Ingegneria Meccanica
 * [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
 * [_Fisica Tecnica - Termodinamica - Trasmissione del Calore_](../Insegnamenti/FisicaTecnica)
 * [_Fluidodinamica - Meccanica dei Fluidi - Termofluidodinamica_](../Insegnamenti/Fluidodinamica)
+* [_Fondamenti di Informatica_](../Insegnamenti/FondamentiInformatica)
 * [_Impianti di Condizionamento - Impianti Termotecnici_](../Insegnamenti/ImpiantiCondizionamento)
 
 ### Scienze e tecnologie informatiche
@@ -53,6 +57,10 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 #### Informatica
 * [_Basi di Dati_](../Insegnamenti/BasiDati)
 * [_Sistemi Embedded_](../Insegnamenti/SistemiEmbedded)
+
+
+---
+
 
 ## Repository dedicate a CdL
 
