@@ -20,3 +20,4 @@ Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sol
 * [Illuminotecnica](./Illuminotecnica)
 * [Impianti di Condizionamento - Impianti Termotecnici](./ImpiantiCondizionamento)
 * [Sistemi Embedded](./SistemiEmbedded)
+* [Statistica](./Statistica)

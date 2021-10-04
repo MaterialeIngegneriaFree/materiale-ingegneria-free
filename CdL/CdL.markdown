@@ -44,6 +44,7 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 * [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
 * [_Fondamenti di Informatica_](../Insegnamenti/FondamentiInformatica)
 * [_Fisica Tecnica - Termodinamica - Trasmissione del Calore_](../Insegnamenti/FisicaTecnica)
+* [_Statistica_](../Insegnamenti/Statistica)
 
 #### Ingegneria Meccanica
 * [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
