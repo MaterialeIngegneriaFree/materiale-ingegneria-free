@@ -5,4 +5,7 @@ permalink: /Insegnamenti/Illuminotecnica
 --- 
 
 ## Testi
-* [_Illuminotecnica_](http://giulianocammarata.it/ILLUMINOTECNICA.pdf); Prof. Ing. Giuliano Cammarata (Dipartimento di Ingegneria Elettrica Elettronica e Informatica, Università di Catania); "Il materiale didattico è liberamente scaricabile ad uso personale e non commerciale." (maggiori dettagli nell'opera)
+
+| Titolo | Autore | Licenza | Mirror | Note |
+| :---: | :---: | :---: | :---: | :---: |
+| [_Illuminotecnica_](https://giulianocammarata.it/ILLUMINOTECNICA.pdf) | [Ing. Giuliano Cammarata](https://giulianocammarata.it/) (Università di Catania) | Link su autorizzazione, "Il materiale didattico è liberamente scaricabile ad uso personale e non commerciale" | [1](https://web.archive.org/web/20211006163830/http://giulianocammarata.it/ILLUMINOTECNICA.pdf) | / |
