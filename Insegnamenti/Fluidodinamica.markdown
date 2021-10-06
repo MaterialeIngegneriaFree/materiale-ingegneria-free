@@ -4,6 +4,9 @@ layout: page
 permalink: /Insegnamenti/Fluidodinamica
 --- 
 
+## Dispense
+* [_Dispense di Termofluidodinamica Applicata_](http://www.den.unipi.it/paolo.dimarco/eps/Dispense%20luc%20TFDA.zip); [Paolo Di Marco](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=262) (Università di Pisa); Link su autorizzazione, consentito uso didattico personale; 
+
 ## Filmati
 * [_Formation of Vortices in Water Currents - 1. Formation of Vortices and its Artificial Influencing_](https://av.tib.eu/media/12263); Ludwig Prandtl; [CC BY-NC-ND 3.0 DE](https://creativecommons.org/licenses/by-nc-nd/3.0/de/deed.en)
 * [_Formation of Vortices in Water Currents - 2. Application on the Flow through Bent Pipes, Hollow Chambers, and Branched Pipes_](https://av.tib.eu/media/10981); Ludwig Prandtl; [CC BY-NC-ND 3.0 DE](https://creativecommons.org/licenses/by-nc-nd/3.0/de/deed.en)
