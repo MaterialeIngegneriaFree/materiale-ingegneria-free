@@ -37,9 +37,11 @@ plugins:
 header_pages:
   - index.markdown
   - CdL/CdL.markdown
+  - IniziativeProgetti/IniziativeProgetti.markdown
   - Insegnamenti/Insegnamenti.markdown
   - Macroaree/Macroaree.markdown
   - Software/Software.markdown
+ 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
