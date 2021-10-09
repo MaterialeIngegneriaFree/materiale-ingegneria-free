@@ -30,21 +30,19 @@ permalink: /Insegnamenti/FisicaTecnica
 
 | Titolo | Autore | Licenza |
 | :---: | :---: | :---: |
-
 | [_Approfondimenti utili_](https://www.rinocuccurullo.com/approfondimenti) |  [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
 
 ## Slide
 
 | Titolo | Autore | Licenza |
 | :---: | :---: | :---: |
-
 | [_Slide di fisica tecnica, trasmissione del calore e termotecnica_](https://www.rinocuccurullo.com/slide) |  [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
 
 ## Esercizi
 
 | Titolo | Autore | Licenza |
 | :---: | :---: | :---: |
-
 | [_Esercizi guida_](https://www.rinocuccurullo.com/esguida) |  [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
 | [_Esercizi proposti_](https://www.rinocuccurullo.com/esercizi) |  [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
-| [_Slide esplicative sugli esercizi_](https://www.rinocuccurullo.com/slide-esercitazionitc) |  [Gennaro Cuccurullo in collaborazione con l'ing. Carmela Concilio](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
+| [_Slide esplicative sugli esercizi_](https://www.rinocuccurullo.com/slide-esercitazionitc) |  [Gennaro Cuccurullo in collaborazione con l'Ing. Carmela Concilio](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
+| [_Prove di esame svolte e commentate_](https://www.rinocuccurullo.com/solesame) |  [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione ||
