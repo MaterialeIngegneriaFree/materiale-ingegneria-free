@@ -31,3 +31,9 @@ permalink: /Insegnamenti/FisicaGenerale
 | :---: | :---: | :---: | :---: | :---: |
 | [Elettro-Magnetismo](https://osiris.df.unipi.it/~astrumia/didattica/SlidesFisica2.pdf) | [Alessandro Strumia](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5548) (Dipartimento di Fisica, Università di Pisa) | Link su autorizzazione dell'autore |  [1](https://web.archive.org/web/20211002160022/https://osiris.df.unipi.it/~astrumia/didattica/SlidesFisica2.pdf) | CdL in Fisica |
 
+## Testi
+
+| Titolo | Autore | Licenza | Mirror | Note |
+| :---: | :---: | :---: | :---: | :---: |
+| [_Lezioni di Fisica 1_](../Resources/Lezioni%20di%20Fisica%201%20(2021-08-10)%20-%20Pietro%20Donatis%20-%20CC%20BY-NC-SA%202.5%20IT.pdf) | Pietro Donatis | [CC BY-NC-SA 2.5 IT](https://creativecommons.org/licenses/by-nc-sa/2.5/it/) | / | / |
+| [_Lezioni di Fisica 2_](../Resources/Lezioni%20di%20Fisica%202%20(2021-08-10)%20-%20Pietro%20Donatis%20-%20CC%20BY-NC-SA%202.5%20IT.pdf) | Pietro Donatis | [CC BY-NC-SA 2.5 IT](https://creativecommons.org/licenses/by-nc-sa/2.5/it/) | / | / |
