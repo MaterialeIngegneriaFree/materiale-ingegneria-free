@@ -9,3 +9,4 @@ Il sito, realizzato con Jekyll e GitHub Pages, è accessibile all'indirizzo [mat
 Il codice del sito in questa repository è rilasciato sotto licenza *Creative Commons Zero v1.0 Universal*. 
 Notare che la licenza si applica solamente al sorgente del sito, che è un insieme di file Markdown con dei link.
 __I materiali a cui il sito fa riferimento sono rilasciati sotto le rispettive licenze, riportate assieme ai link nelle pagine del sito.__ 
+__Idem i file nella cartella Resources sono soggetti alle relative licenze, riportate nei file stessi.__
