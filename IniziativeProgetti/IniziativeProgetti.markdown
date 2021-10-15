@@ -57,7 +57,7 @@ ___Notare che non tutti i MOOC sono di ambito tecnico/scientifico, anzi, sono un
 | Università del Salento (UniSalento) | [UniSalento su EduOpen](https://learn.eduopen.org/eduopenv2//institution_details.php?institutionid=13) | / | / |
 | Università della Calabria (UniCal) | [UniCal CLA MOOCS](https://moocs.unical.it/) | / | / |
 | Università di Pisa (UniPi) | [UniPi su EduOpen](https://learn.eduopen.org/eduopenv2//institution_details.php?institutionid=29) | / | / |
-| Università per Stranieri di Siena (UniStraSi) | [UniStraSi su Federica.eu](https://www.federica.eu/partners/unistrasi/) | / | / |
+| Università per Stranieri di Siena (UniStraSi) | [UniStraSi su Federica.eu](https://www.federica.eu/partners/unistrasi/) | [UniStraSi su FutureLearn](https://www.futurelearn.com/partners/uni-stra-si) | / |
 | Università Politecnica delle Marche (UNIVPM) | [UNIVPM su EduOpen](https://learn.eduopen.org/eduopenv2//institution_details.php?institutionid=23) | / | / |
 
 #### Atenei ed Enti non statali italiani
