@@ -27,7 +27,7 @@ ___Notare che non tutti i MOOC sono di ambito tecnico/scientifico, anzi, sono un
 #### Atenei Statali ed Enti Pubblici italiani
 
 | Ateneo/Ente | Piattaforma (1) | Piattaforma (2) | Piattaforma (3) |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | 
 | Alma Mater Studiorum - Università di Bologna (UniBo) | [BOOK (uniBO Open Knowledge)](https://book.unibo.it/) | / | / |
 | Consorzio Interuniversitario Sistemi Integrati per l’Accesso (CISIA) | [CISIA su Federica.eu](https://www.federica.eu/partners/cisia/) | / | / |
 | Politecnico di Bari (PoliBa) | [PoliBa su EduOpen](https://learn.eduopen.org/eduopenv2/institution_details.php?institutionid=15) | / | / |
