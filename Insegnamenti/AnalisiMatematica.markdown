@@ -8,7 +8,7 @@ permalink: /Insegnamenti/AnalisiMatematica
 
 | Titolo | Autore | Licenza | Mirror |
 | :---: | :---: | :---: | :---: |
-| [_Test di Analisi 1_](https://drive.google.com/file/d/12h7u4k7prbDtl3WYOvKeTsDbnlWRwMtQ/view) con [_Soluzioni_](https://drive.google.com/file/d/1g2gapy_VeJEiinhmFQV_IxIQ_mBKtC50/view) | 
+| [_Test di Analisi 1_](https://drive.google.com/file/d/12h7u4k7prbDtl3WYOvKeTsDbnlWRwMtQ/view) con [_Soluzioni_](https://drive.google.com/file/d/1g2gapy_VeJEiinhmFQV_IxIQ_mBKtC50/view) | [Luciano Pandolfi](https://lucipan.altervista.org) (ex Politecnico di Torino) | Link su autorizzazione | / |
 
 ## Testi
 
