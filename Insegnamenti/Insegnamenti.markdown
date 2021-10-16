@@ -12,6 +12,7 @@ Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sol
 * [Analisi Matematica Superiore - Analisi Matematica 3 - Matematica 3](./AnalisiSuperiore)
 * [Basi di Dati](./BasiDati)
 * [Climatologia - Climatologia dell'ambiente costruito](./Climatologia)
+* [Controlli Automatici - Ingegneria dei Controlli - Sistemi di Controllo](./ControlliAutomatici)
 * [Elettrotecnica](./Elettrotecnica)
 * [Fisica Generale - Fisica 1 - Fisica 2](./FisicaGenerale)
 * [Fisica Tecnica - Termodinamica - Trasmissione del Calore](./FisicaTecnica)
