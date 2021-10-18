@@ -4,6 +4,12 @@ layout: page
 permalink: /CdL/CdL
 --- 
 
+## Prima di iniziare
+Spazio dedicato alle conoscenze pregresse, alla preparazione per i test d'ingresso ed ai "debiti" (Anno Zero/OFA):
+* [Anno Zero - Conoscenze Pregresse - Obblighi Formativi Aggiuntivi (OFA) - Test d'ingresso (TOLC)](./AnnoZero)
+
+---
+
 Qui si trovano i link alle pagine dei Corsi di Laurea, che elencano gli insegnamenti che ne possono far parte.
 Sono anche elencati progetti/repository di materiale relativo ad un intero CdL
 
