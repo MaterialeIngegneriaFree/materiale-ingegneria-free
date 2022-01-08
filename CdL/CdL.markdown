@@ -4,12 +4,6 @@ layout: page
 permalink: /CdL/CdL
 --- 
 
-## Indice (WIP)
-
-{:toc}
-
----
-
 ## Prima di iniziare
 Spazio dedicato alle conoscenze pregresse, alla preparazione per i test d'ingresso ed ai "debiti" (Anno Zero/OFA):
 * [Anno Zero - Conoscenze Pregresse - Obblighi Formativi Aggiuntivi (OFA) - Test d'ingresso (TOLC)](./AnnoZero)
