@@ -2,9 +2,9 @@
 title: Controlli Automatici - Ingegneria dei Controlli - Sistemi di Controllo
 layout: page
 permalink: /Insegnamenti/ControlliAutomatici
----  
+---
 
-## Testi 
+## Testi
 
 | Titolo | Autore | Licenza | Mirror |
 | :---: | :---: | :---: | :---: |

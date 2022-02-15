@@ -2,7 +2,7 @@
 title: Fisica Generale - Fisica 1 - Fisica 2
 layout: page
 permalink: /Insegnamenti/FisicaGenerale
---- 
+---
 
 ## Esercizi
 

@@ -2,7 +2,7 @@
 title: Sistemi Embedded
 layout: page
 permalink: /Insegnamenti/SistemiEmbedded
---- 
+---
 
 ## Testi
 

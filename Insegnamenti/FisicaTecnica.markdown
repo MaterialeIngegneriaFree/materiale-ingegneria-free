@@ -2,7 +2,7 @@
 title: Fisica Tecnica - Termodinamica - Trasmissione del Calore
 layout: page
 permalink: /Insegnamenti/FisicaTecnica
---- 
+---
 
 ## Testi
 
@@ -15,7 +15,7 @@ permalink: /Insegnamenti/FisicaTecnica
 ## Videolezioni
 
 | Titolo | Autore | Licenza |
-| :---: | :---: | :---: | 
+| :---: | :---: | :---: |
 | [_Videolezioni di Applicazioni di Trasmissione del Calore_](https://www.rinocuccurullo.com/copia-di-videolezioni-tc) | [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione |
 | [_Videolezioni di Fisica Tecnica e Impianti Termotecnici_](https://www.rinocuccurullo.com/videolezioni-ft) | [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione |
 | [_Videolezioni di Trasmissione del Calore_](https://www.rinocuccurullo.com/videolezioni-tc) | [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione |
@@ -23,10 +23,10 @@ permalink: /Insegnamenti/FisicaTecnica
 ## Materiale complementare al testo
 
 | Titolo | Autore | Licenza |
-| :---: | :---: | :---: | 
+| :---: | :---: | :---: |
 | [_Materiale di supporto relativo allo svolgimento di esercizi_](https://www.rinocuccurullo.com/supporto) |  [Gennaro Cuccurullo](https://docenti.unisa.it/001710/home) (Università degli Studi di Salerno) | Link su autorizzazione |
 
-## Approfondimenti 
+## Approfondimenti
 
 | Titolo | Autore | Licenza |
 | :---: | :---: | :---: |

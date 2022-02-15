@@ -2,7 +2,7 @@
 title: Impianti di Condizionamento - Impianti Termotecnici
 layout: page
 permalink: /Insegnamenti/ImpiantiCondizionamento
----  
+---
 
 ## Testi
 

@@ -2,7 +2,7 @@
 title: Elettrotecnica
 layout: page
 permalink: /Insegnamenti/Elettrotecnica
----  
+---
 
 ## Testi
 
