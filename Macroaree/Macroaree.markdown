@@ -5,6 +5,19 @@ permalink: /Macroaree/Macroaree
 ---
 Tutto quello che può essere d'interesse per informatici e ingegneri e che non rientra in uno specifico insegnamento, raggruppato per macroaree tematiche.
 
+## Appunti di Informatica Libera
+
+[_a2_](https://sites.google.com/view/daniele-giacomini/it) (_Appunti di informatica libera_), realizzati da Daniele Giacomini tra il 1997 ed il 2013, 17.810 pagine in sei volumi su:
+
+* Sistemi GNU/Linux
+* Tipografia digitale
+* Programmazione
+* Sistemi operativi a 21 bit
+* Didattica in laboratorio
+* Varie
+
+Il progetto è presente anche su [Archive.org](https://archive.org/details/AppuntiDiInformaticaLibera/20080000.a2/), l'edizione più recente è la [2013.11.11a](https://archive.org/download/AppuntiDiInformaticaLibera/20131111a.a2.pdf) (570 MB, pazientare per il download), rilasciata sotto licenze [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html), [GNU FDL 1.3](https://www.gnu.org/licenses/fdl-1.3.htmlg) e successive, [CC BY-SA 2.5 IT](https://creativecommons.org/licenses/by-sa/2.5/it/).
+
 ## Conoscenza Open
 
 * [_Cittadinanza Digitale e Tecnocivismo_](https://www.ledizioni.it/prodotto/cittadinanza-digitale-tecnocivismo/); Andrea Trentini, Giovanni Biscuolo, Andrea Rossi; Ledizioni; [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it). Scaricabile tramite registrazione sul sito dell'editore ed "acquisto fittizio" del'eBook a 0€, oppure [scaricabile direttamente in PDF](https://www.ledizioni.it/stag/wp-content/uploads/woocommerce_uploads/2020/11/CittDigTecnoBook-WEB.pdf).
