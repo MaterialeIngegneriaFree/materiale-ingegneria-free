@@ -2,13 +2,16 @@
 title: Insegnamenti
 layout: page
 permalink: /Insegnamenti/Insegnamenti
---- 
+---
 
 ## Prima di iniziare
+
 Spazio dedicato alle conoscenze pregresse, alla preparazione per i test d'ingresso ed ai "debiti" (Anno Zero/OFA):
+
 * [Anno Zero - Conoscenze Pregresse - Obblighi Formativi Aggiuntivi (OFA) - Test d'ingresso (TOLC)](./AnnoZero)
 
 ## Insegnamenti in ordine alfabetico
+
 Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sola (ad esempio _Fisica Tecnica_ e _Termodinamica_).
 
 * [Acustica - Acustica Applicata](./Acustica)
