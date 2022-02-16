@@ -51,6 +51,11 @@ Alcuni insegnamenti sono in comune alla maggioranza dei Corsi di Laurea e sono q
 
 ### Ingegneria Industriale
 
+### Ingegneria Elettronica
+
+* [_Elettrotecnica_](../Insegnamenti/Elettrotecnica)
+* [_Misure Elettroniche - Sistemi di Misura_](../Insegnamenti/MisureElettroniche)
+
 #### Ingegneria Gestionale
 
 * [_Basi di Dati_](../Insegnamenti/BasiDati)
