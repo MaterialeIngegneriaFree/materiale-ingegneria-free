@@ -28,6 +28,6 @@ Esami affini o noti con denominazioni diverse sono raggruppati in una pagina sol
 * [Geometria e Algebra Lineare (GAL)](./GeometriaAlgebraLineare)
 * [Illuminotecnica](./Illuminotecnica)
 * [Impianti di Condizionamento - Impianti Termotecnici](./ImpiantiCondizionamento)
-* [Misure Elettroniche - Sistemi di Misura](./Insegnamenti/MisureElettroniche)
+* [Misure Elettroniche - Sistemi di Misura](./MisureElettroniche)
 * [Sistemi Embedded](./SistemiEmbedded)
 * [Statistica](./Statistica)
