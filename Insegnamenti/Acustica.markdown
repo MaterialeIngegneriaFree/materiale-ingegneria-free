@@ -2,7 +2,7 @@
 title: Acustica - Acustica Applicata
 layout: page
 permalink: /Insegnamenti/Acustica
---- 
+---
 
 ## Testi
 

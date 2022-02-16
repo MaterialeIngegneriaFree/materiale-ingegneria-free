@@ -2,7 +2,7 @@
 title: Basi di Dati
 layout: page
 permalink: /Insegnamenti/BasiDati
----  
+---
 
 ## Videolezioni
 

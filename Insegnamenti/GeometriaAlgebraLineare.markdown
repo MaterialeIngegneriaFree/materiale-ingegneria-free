@@ -2,7 +2,7 @@
 title: Geometria e Algebra Lineare
 layout: page
 permalink: /Insegnamenti/GeometriaAlgebraLineare
---- 
+---
 
 ## Testi
 

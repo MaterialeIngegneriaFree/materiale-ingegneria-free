@@ -2,14 +2,13 @@
 title: Fluidodinamica - Meccanica dei Fluidi - Termofluidodinamica
 layout: page
 permalink: /Insegnamenti/Fluidodinamica
---- 
-
+---
 
 ## Dispense
 
 | Titolo | Autore | Licenza | Mirror | Note |
 | :---: | :---: | :---: | :---: | :---: |
-| [_Dispense di Termofluidodinamica Applicata_](http://www.den.unipi.it/paolo.dimarco/eps/Dispense%20luc%20TFDA.zip) | [Paolo Di Marco](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=262) (Università di Pisa) | Link su autorizzazione, consentito uso didattico personale | / | / | 
+| [_Dispense di Termofluidodinamica Applicata_](http://www.den.unipi.it/paolo.dimarco/eps/Dispense%20luc%20TFDA.zip) | [Paolo Di Marco](https://unimap.unipi.it/cercapersone/dettaglio.php?ri=262) (Università di Pisa) | Link su autorizzazione, consentito uso didattico personale | / | / |
 
 ## Filmati
 

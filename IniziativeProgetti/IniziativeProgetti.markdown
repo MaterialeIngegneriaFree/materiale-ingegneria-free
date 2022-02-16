@@ -2,9 +2,9 @@
 title: Iniziative e Progetti
 layout: page
 permalink: /IniziativeProgetti/IniziativeProgetti
---- 
+---
 
-## Iniziative e Progetti Utili 
+## Iniziative e Progetti Utili
 
 ### Associazioni
 
@@ -27,7 +27,7 @@ ___Notare che non tutti i MOOC sono di ambito tecnico/scientifico, anzi, sono un
 #### Atenei Statali ed Enti Pubblici italiani
 
 | Ateneo/Ente | Piattaforma (1) | Piattaforma (2) | Piattaforma (3) |
-| :---: | :---: | :---: | :---: | 
+| :---: | :---: | :---: | :---: |
 | Alma Mater Studiorum - Università di Bologna (UniBo) | [BOOK (uniBO Open Knowledge)](https://book.unibo.it/) | / | / |
 | Consorzio Interuniversitario Sistemi Integrati per l’Accesso (CISIA) | [CISIA su Federica.eu](https://www.federica.eu/partners/cisia/) | / | / |
 | Politecnico di Bari (PoliBa) | [PoliBa su EduOpen](https://learn.eduopen.org/eduopenv2/institution_details.php?institutionid=15) | / | / |
@@ -67,7 +67,7 @@ ___Notare che non tutti i MOOC sono di ambito tecnico/scientifico, anzi, sono un
 | Libera Università di Bolzano (UniBz) | [UniBz su EduOpen](https://learn.eduopen.org/eduopenv2//institution_details.php?institutionid=22) |
 | Libera Università Maria Santissima Assunta (LUMSA) | [LUMSA su EduOpen](https://learn.eduopen.org/eduopenv2//institution_details.php?institutionid=27) |
 | Università Cattolica del Sacro Cuore (UniCatt) | [UniCatt su EduOpen](https://learn.eduopen.org/eduopenv2/institution_details.php?institutionid=37) |
-| Università Commerciale Luigi Bocconi (UniBocconi) | [UniBocconi su Coursera](https://www.coursera.org/bocconi) | 
+| Università Commerciale Luigi Bocconi (UniBocconi) | [UniBocconi su Coursera](https://www.coursera.org/bocconi) |
 | Università Telematica Internazionale UNINETTUNO | [UNINETTUNO OpenupEd](https://www.uninettunouniversity.net/it/mooc-corsi-online.aspx?faculty=&degree=209&idindirizzo=&mode=cs) |
 
 #### Internazionali
@@ -75,10 +75,3 @@ ___Notare che non tutti i MOOC sono di ambito tecnico/scientifico, anzi, sono un
 | Piattaforma | Ente |
 | :---: | :---: |
 | Coming soon... | Coming soon... |
-
-
-
-
-
-
- 

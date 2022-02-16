@@ -2,7 +2,7 @@
 title: Analisi Matematica Generale - Analisi Matematica 1 e 2 - Matematica 1 e 2
 layout: page
 permalink: /Insegnamenti/AnalisiMatematica
----  
+---
 
 ## Esercizi
 

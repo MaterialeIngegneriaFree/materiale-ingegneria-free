@@ -2,7 +2,7 @@
 title: Fondamenti di Informatica
 layout: page
 permalink: /Insegnamenti/FondamentiInformatica
----  
+---
 
 ## Testi
 
