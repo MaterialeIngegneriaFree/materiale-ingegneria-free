@@ -52,6 +52,11 @@ ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2 or later](https://
 [Ghostwriter](https://wereturtle.github.io/ghostwriter/) è un editor Markdown senza distrazioni e con anteprima integrata.
 ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.com/wereturtle/ghostwriter/blob/master/COPYING)
 
+### [Inkscape](https://inkscape.org/)
+
+[Inkscape](https://inkscape.org/) è un editor di grafica vettoriale, utilizzabile sia per illustrazioni artistiche che tecniche.
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPL](https://inkscape.org/about/license/)
+
 ### [Kchmviewer](https://www.ulduzsoft.com/linux/kchmviewer/)
 
 [Kchmviewer](https://www.ulduzsoft.com/linux/kchmviewer/) è un visualizzatore di file [CHM di aiuto in linea](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help) e EPUB.
