@@ -87,6 +87,11 @@ ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.co
 [Open Broadcaster Software (OBS)](https://obsproject.com/) è uno strumento completo per la cattura dello schermo, registrazione di video e live streaming.
 ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING)
 
+### [Pomotroid](https://github.com/Splode/pomotroid)
+
+[Pomotroid](https://github.com/Splode/pomotroid) è un simpatico timer personalizzabile che consente di sfruttare il metodo del pomodoro per rimanere concentrato durante lo studio o il lavoro.
+___SO:___ Linux, MacOS, Windows    ___Licenza:___ [MIT](https://github.com/Splode/pomotroid/blob/master/LICENSE)
+
 ### [Processing](https://processing.org/)
 
 [Processing](https://processing.org/) consente di creare grafiche interattive e simulare fenomeni fisici.
