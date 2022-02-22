@@ -60,4 +60,4 @@ Materiale sotto licenza libera può essere aggiunto immediatamente agli elenchi,
 
 ## Ringraziamenti
 
-Il primo ringraziamento va ovviamente agli autori del materiale linkato da questo sito. Poi vorremmo ringraziare coloro che hanno dato suggerimenti e contributi al progetto: anzitutto coloro che hanno deciso di rimanere anonimi, poi Alessandro Zoi, Daniele La Prova
+Il primo ringraziamento va ovviamente agli autori del materiale linkato da questo sito. Poi vorremmo ringraziare coloro che hanno dato suggerimenti e contributi al progetto: anzitutto coloro che hanno deciso di rimanere anonimi, poi Andrea Barbagallo, Alessandro Zoi, Daniele La Prova
