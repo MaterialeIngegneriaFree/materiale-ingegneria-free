@@ -12,6 +12,11 @@ Consideriamo libere le licenze software [considerate tali dalla FSF](https://www
 
 ## Desktop
 
+### [Beekeeper Studio](https://www.beekeeperstudio.io/)
+
+[Beekeeper Studio](https://www.beekeeperstudio.io/) è un software open source che funge sia da editor SQL che da Database Manager. Supporta diversi database.
+___SO:___ Linux, MacOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.com/beekeeper-studio/beekeeper-studio/blob/master/LICENSE.md)
+
 ### [Calibre](https://calibre-ebook.com/)
 
 [Calibre](https://calibre-ebook.com/) è una soluzione integrata per la gestione e visualizzazione di ebook in numerosi formati.
@@ -52,6 +57,11 @@ ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2 or later](https://
 [Ghostwriter](https://wereturtle.github.io/ghostwriter/) è un editor Markdown senza distrazioni e con anteprima integrata.
 ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.com/wereturtle/ghostwriter/blob/master/COPYING)
 
+### [Inkscape](https://inkscape.org/)
+
+[Inkscape](https://inkscape.org/) è un editor di grafica vettoriale, utilizzabile sia per illustrazioni artistiche che tecniche.
+___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPL](https://inkscape.org/about/license/)
+
 ### [Kchmviewer](https://www.ulduzsoft.com/linux/kchmviewer/)
 
 [Kchmviewer](https://www.ulduzsoft.com/linux/kchmviewer/) è un visualizzatore di file [CHM di aiuto in linea](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help) e EPUB.
@@ -81,6 +91,11 @@ ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.co
 
 [Open Broadcaster Software (OBS)](https://obsproject.com/) è uno strumento completo per la cattura dello schermo, registrazione di video e live streaming.
 ___SO:___ Linux, macOS, Windows     ___Licenza:___ [GNU GPLv2](https://github.com/obsproject/obs-studio/blob/master/COPYING)
+
+### [Pomotroid](https://github.com/Splode/pomotroid)
+
+[Pomotroid](https://github.com/Splode/pomotroid) è un simpatico timer personalizzabile che consente di sfruttare il metodo del pomodoro per rimanere concentrato durante lo studio o il lavoro.
+___SO:___ Linux, MacOS, Windows    ___Licenza:___ [MIT](https://github.com/Splode/pomotroid/blob/master/LICENSE)
 
 ### [Processing](https://processing.org/)
 
