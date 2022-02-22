@@ -15,7 +15,7 @@ Consideriamo libere le licenze software [considerate tali dalla FSF](https://www
 ### [Beekeeper Studio](https://www.beekeeperstudio.io/)
 
 [Beekeeper Studio](https://www.beekeeperstudio.io/) è un software open source che funge sia da editor SQL che da Database Manager. Supporta diversi database.
-___SO:___ Linux, MacOS, Windows     ___Licenza:___ [MIT](https://github.com/beekeeper-studio/beekeeper-studio/blob/master/LICENSE.md)
+___SO:___ Linux, MacOS, Windows     ___Licenza:___ [GNU GPLv3](https://github.com/beekeeper-studio/beekeeper-studio/blob/master/LICENSE.md)
 
 ### [Calibre](https://calibre-ebook.com/)
 
